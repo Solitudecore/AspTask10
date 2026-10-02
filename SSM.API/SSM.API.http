@@ -1,0 +1,6 @@
+@SSM.API_HostAddress = http://localhost:5119
+
+GET {{SSM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
